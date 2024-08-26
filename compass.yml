@@ -1,0 +1,18 @@
+name: ContributorLicenseAgreement
+id: ari:cloud:compass:4ae98d0c-08f4-426b-ab18-3581a764ec4d:component/186ee38f-818e-4f8a-a457-99b094f765ca/e561275e-015b-4f10-b3aa-2f6df5a91b69
+description: Microsoft Contributor License Agreement policy app
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/KohartCo/ContributorLicenseAgreement
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+  - synced-with-jsm
+customFields: null
